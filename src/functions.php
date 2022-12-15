@@ -59,6 +59,14 @@ function outputPost(array $post)
     ';
 }
 
+function formatDate(string $date): string
+{
+    return date('d/m/Y G:i:s', strtotime($date));
+}
+
+/*
+ * Only need this for the stretch goal
+ */
 function outputReply(array $post): string
 {
     $replies = '';
@@ -80,7 +88,3 @@ function outputReply(array $post): string
     return $replies;
 }
 
-function formatDate(string $date): string
-{
-    return date('d/m/Y G:i:s', strtotime($date));
-}
