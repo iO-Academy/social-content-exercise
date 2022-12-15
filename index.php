@@ -37,6 +37,17 @@
                         <button type="button" class="btn btn-info">+</button>
                     </div>
                 </div>
+
+                <div class="card-body border-left border-info ml-4 mb-4">
+                    <h5 class="card-title">gregsboss <small class="small mr-2 float-right text-muted">14/12/2022 14:09:38</small></h5>
+                    <p class="card-text">...and your 2 months overdue on that report!!!</p>
+                    <div class="btn-group" role="group">
+                        <button type="button" class="btn btn-info">-</button>
+                        <span class="disabled btn btn-outline-info">-1</span>
+                        <button type="button" class="btn btn-info">+</button>
+                    </div>
+                </div>
+
             </div>
 
             <div class="card mb-4">
@@ -70,6 +81,16 @@
                     <div class="btn-group" role="group">
                         <button type="button" class="btn btn-info">-</button>
                         <span class="disabled btn btn-outline-info">12</span>
+                        <button type="button" class="btn btn-info">+</button>
+                    </div>
+                </div>
+
+                <div class="card-body border-left border-info ml-4 mb-4">
+                    <h5 class="card-title">julie1974 <small class="small mr-2 float-right text-muted">14/12/2022 14:12:05</small></h5>
+                    <p class="card-text">Nobody cares about your gym trip</p>
+                    <div class="btn-group" role="group">
+                        <button type="button" class="btn btn-info">-</button>
+                        <span class="disabled btn btn-outline-info">-9</span>
                         <button type="button" class="btn btn-info">+</button>
                     </div>
                 </div>
