@@ -41,6 +41,7 @@ LOCK TABLES `replies` WRITE;
 INSERT INTO `replies` (`id`, `reply_to`, `name`, `reply`, `upvotes`, `created`)
 VALUES
 	(1,4,'gregsboss','...and your 2 months overdue on that report!!!',-1,'2022-12-14 14:09:38'),
+	(3,4,'footballfan89','oooo your in trouble now!',2,'2022-12-14 14:12:38'),
 	(2,1,'julie1974','Nobody cares about your gym trip',-9,'2022-12-14 14:12:05');
 
 /*!40000 ALTER TABLE `replies` ENABLE KEYS */;
